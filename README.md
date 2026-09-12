@@ -6,25 +6,7 @@
 
 **AgroInsight | Smart India Hackathon 2026**
 
-</div>
 
-<br>
-
-<!-- Project videos -->
-
-<div align="center">
-
-[Project Demo](videos/intellifarm-prototype-demo.mp4)    [Probe Render](videos/intellifarm-probe-render.MOV)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Project Explanation](https://img.youtube.com/vi/UbcCrgo2Hvs/maxresdefault.jpg)](https://youtu.be/UbcCrgo2Hvs)
-
-</div>
 
 ---
 
