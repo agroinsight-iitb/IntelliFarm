@@ -10,38 +10,6 @@
 
 <br>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 3D Probe
-
-<br>
-
-<video src="videos/intellifarm-probe-render.MOV" controls width="100%"></video>
-
-</td>
-
-<td align="center" width="50%">
-
-### Working Prototype
-
-<br>
-
-<video src="videos/intellifarm-prototype-demo.mp4" controls width="100%"></video>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
 [![Project Explanation](https://img.youtube.com/vi/UbcCrgo2Hvs/maxresdefault.jpg)](https://youtu.be/UbcCrgo2Hvs)
 
 **Project Explanation**
